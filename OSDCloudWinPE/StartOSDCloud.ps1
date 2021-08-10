@@ -1,4 +1,3 @@
-#Requires -Modules OSD
 #Requires -RunAsAdministrator
 
 #How To: Update OSD Module and start OSDCloud (Command Line) automatically

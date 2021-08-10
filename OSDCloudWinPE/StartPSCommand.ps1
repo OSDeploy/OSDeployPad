@@ -1,4 +1,3 @@
-#Requires -Modules OSD
 #Requires -RunAsAdministrator
 
 #How To: Add PowerShell Command/ScriptBlock to Startnet.cmd

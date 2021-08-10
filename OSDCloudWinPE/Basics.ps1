@@ -1,4 +1,3 @@
-#Requires -Modules OSD
 #Requires -RunAsAdministrator
 
 #How To: The basics of Edit-OSDCloud.winpe

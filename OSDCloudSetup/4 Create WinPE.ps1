@@ -1,9 +1,11 @@
-#Requires -Modules OSD
 #Requires -RunAsAdministrator
 
-#How To: Update OSD Module and start OSDCloudGUI automatically
+#How To: Create an OSDCloud WinPE
+
+Import-Module OSD -Force
 
 $Params = @{
+    CloudDriver = 'Dell','VMware','WiFi'
     StartUpdate = $true
     StartOSDCloudGUI = $true
 }

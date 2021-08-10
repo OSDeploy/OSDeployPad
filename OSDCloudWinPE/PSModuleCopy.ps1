@@ -1,4 +1,3 @@
-#Requires -Modules OSD
 #Requires -RunAsAdministrator
 
 #How To: Copy PowerShell Modules from your computer into WinPE

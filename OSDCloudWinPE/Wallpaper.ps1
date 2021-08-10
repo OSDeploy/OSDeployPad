@@ -1,4 +1,3 @@
-#Requires -Modules OSD
 #Requires -RunAsAdministrator
 
 #How To: Add custom Wallpaper to WinPE

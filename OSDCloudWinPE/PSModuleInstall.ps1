@@ -1,4 +1,3 @@
-#Requires -Modules OSD
 #Requires -RunAsAdministrator
 
 #How To: Save PowerShell Modules from PowerShell Gallery into WinPE
